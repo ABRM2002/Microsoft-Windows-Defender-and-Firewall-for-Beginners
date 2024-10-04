@@ -14,8 +14,6 @@ The Microsoft-Windows-Defender-and-Firewall-for-Beginners is a guided project by
 
 ## A. Microsoft Windows Defender Antivirus:-
 
----
-
 ### 1.Real-Time Protection:
 
 ![Screenshot 2024-09-27 204004](https://github.com/user-attachments/assets/577be86e-d07f-412e-b6bf-df61899333c4)
