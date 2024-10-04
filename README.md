@@ -14,37 +14,43 @@ The Microsoft-Windows-Defender-and-Firewall-for-Beginners is a guided project by
 
 ## A. Microsoft Windows Defender Antivirus:-
 
-
+---
 
 ### 1.Real-Time Protection:
 
 ![Screenshot 2024-09-27 204004](https://github.com/user-attachments/assets/577be86e-d07f-412e-b6bf-df61899333c4)
 
-Windows Defender Antivirus offers several types of scans to ensure comprehensive protection, which includes Quick Scan, Full Scan, Custom Scan, Offline Scan and Schedule Scan.
-Quick Scan: Allows the user to scan the areas of the system that are most likely to be targeted by malware. This scan is faster but less comprehensive. Here's what it typically involves:
+- Windows Defender Antivirus offers several types of scans to ensure comprehensive protection, which includes Quick Scan, Full Scan, Custom Scan, Offline Scan and Schedule Scan.
+- Quick Scan: Allows the user to scan the areas of the system that are most likely to be targeted by malware. This scan is faster but less comprehensive. Here's what it typically involves:
 
-Memory Scan: Checks for active malware in your computer's memory.
-System Files: Scans all files and running programs on your hard disk. This scan is more thorough and can take several hours to complete, depending on the size of your drive and the number of files.
-Registry Entries: Examines Windows Registry entries that are commonly used by malware to execute upon startup.
-Common Malware Locations: Scans common locations where malware is known to reside, such as the Windows directory and temporary files.
-Full Scan: This option thoroughly scans the entire system for threats.
+- Memory Scan: Checks for active malware in your computer's memory.
+- System Files: Scans all files and running programs on your hard disk. This scan is more thorough and can take several hours to complete, depending on the size of your drive and the number of 
+  files.
+- Registry Entries: Examines Windows Registry entries that are commonly used by malware to execute upon startup.
+- Common Malware Locations: Scans common locations where malware is known to reside, such as the Windows directory and temporary files.
+- Full Scan: This option thoroughly scans the entire system for threats.
 
-Custom Scan: This option allows the user to select specific files and folders to scan. This is useful if you suspect a particular area of your computer is infected.
+- Custom Scan: This option allows the user to select specific files and folders to scan. This is useful if you suspect a particular area of your computer is infected.
 
-Offline Scan: This option allows users to scan the system before the operating system loads to detect and remove persistent threats.
+- Offline Scan: This option allows users to scan the system before the operating system loads to detect and remove persistent threats.
 
-Scheduled Scan: This can be set up using the Task Scheduler to run regular scans at specified date and time to maintain system health.
+- Scheduled Scan: This can be set up using the Task Scheduler to run regular scans at specified date and time to maintain system health.
+
+---
 
 ### 2.Exclusions:
 
 ![Screenshot 2024-09-27 204855](https://github.com/user-attachments/assets/bf7ccc76-39bd-4321-931d-57a1162eb3c3)
 
 
-This option allows users to specify files, folders, and processes to be excluded from scans. After a scan is completed, Windows Defender Antivirus provides detailed results, which can be accessed through the Windows Security Center. Actions based on scan results include:
+- This option allows users to specify files, folders, and processes to be excluded from scans. After a scan is completed, Windows Defender Antivirus provides detailed results, which can be 
+  accessed through the Windows Security Center. Actions based on scan results include:
 
-Quarantine: Isolating detected threats to prevent them from harming the system.
-Remove: Deleting detected threats from the system.
-Allow: Permitting certain detected items if they are known to be safe (adding to exclusions).
+- Quarantine: Isolating detected threats to prevent them from harming the system.
+- Remove: Deleting detected threats from the system.
+- Allow: Permitting certain detected items if they are known to be safe (adding to exclusions).
+
+---
 
 ### 3.Tamper Protection:
 
