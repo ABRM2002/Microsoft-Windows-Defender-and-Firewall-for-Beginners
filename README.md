@@ -163,7 +163,7 @@ Outbound rules control the outgoing network traffic from your computer. These ru
 
 ---
 
-## Cerificate:-
+## Certificate:-
 
    ![WhatsApp Image 2024-10-01 at 17 00 59_08540037](https://github.com/user-attachments/assets/0c59bcb6-6d80-4298-86c2-d46dc4ac773a)
 
