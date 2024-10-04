@@ -55,19 +55,24 @@ The Microsoft-Windows-Defender-and-Firewall-for-Beginners is a guided project by
 ![Screenshot 2024-09-27 204935](https://github.com/user-attachments/assets/efdd58ee-7c98-4909-bf01-92946b4252b0)
 
 
-Tamper Protection is a feature in Windows Security that helps prevent malicious apps from changing important security settings, including real-time protection and cloud-delivered protection.
+- Tamper Protection is a feature in Windows Security that helps prevent malicious apps from changing important security settings, including real-time protection and cloud-delivered protection.
+
+---
 
 ### 4.Automatic Sample Submission:
 
 ![Screenshot 2024-09-27 205002](https://github.com/user-attachments/assets/fb636350-958f-4438-a54b-322b258d8ca2)
 
 
-Automatic Sample Submission is a feature in Windows Defender that helps protect your computer by automatically sending samples of suspicious files to Microsoft for analysis.
+- Automatic Sample Submission is a feature in Windows Defender that helps protect your computer by automatically sending samples of suspicious files to Microsoft for analysis.
+
+---
 
 ### 5.Regular Updates:
-This option allows users to automatically receive updated Windows Defender Antivirus and virus definitions regularly. To ensure optimal protection, Windows Defender relies on regular updates. These updates include the latest virus definitions, threat intelligence, and software improvements.
 
+- This option allows users to automatically receive updated Windows Defender Antivirus and virus definitions regularly. To ensure optimal protection, Windows Defender relies on regular updates. - - These updates include the latest virus definitions, threat intelligence, and software improvements.
 
+---
 
 
 ## B.Understanding Windows Firewall:-
@@ -76,19 +81,29 @@ This option allows users to automatically receive updated Windows Defender Antiv
 
 ### How Firewalls Work:- 
 
-A firewall works by monitoring all incoming and outgoing network traffic. The firewall decides whether to permit or deny the traffic based on a predefined set of rules.  Firewalls can monitor and filter traffic using several different methods. 
+- A firewall works by monitoring all incoming and outgoing network traffic. The firewall decides whether to permit or deny the traffic based on a predefined set of rules.  Firewalls can monitor 
+  and filter traffic using several different methods. 
 
-Packets are small pieces of data that travel across a network. A firewall that uses packet filtering reviews each packet that tries to access a network or device. Any packets that match known threats or that have been explicitly denied are removed and all other packets are sent through to their destination. 
+- Packets are small pieces of data that travel across a network. A firewall that uses packet filtering reviews each packet that tries to access a network or device. Any packets that match known 
+  threats or that have been explicitly denied are removed and all other packets are sent through to their destination. 
 
-Stateful inspection, also known as dynamic filtering, monitors the state of active network connections.  It relies on patterns to analyze and monitor traffic for potential threats. 
+- Stateful inspection, also known as dynamic filtering, monitors the state of active network connections.  It relies on patterns to analyze and monitor traffic for potential threats. 
 
-A proxy firewall serves as a go-between for the requesting system and the internet. Information is first sent to the proxy service before it is forwarded to its destination. 
+- A proxy firewall serves as a go-between for the requesting system and the internet. Information is first sent to the proxy service before it is forwarded to its destination. 
 
-Filters - Controlling Network Traffic
+- Filters - Controlling Network Traffic
 
-Firewalls can be configured to meet the specific need of an individual or organization. The Inbound and outbound rules in Windows Firewall control the traffic allowed into and out of your computer, respectively. Traffic can be approved or denied based on IP addresses, ports, domain names, and even specific words and phrases. These ensure that only authorized traffic is allowed while unauthorized or potentially harmful traffic is blocked.
+- Firewalls can be configured to meet the specific need of an individual or organization. The Inbound and outbound rules in Windows Firewall control the traffic allowed into and out of your 
+  computer, respectively.
 
-Before you configure your firewall, it is important to create a plan. In many cases it’s best to deny all traffic except what is allowed. Rules that are too strict can limit important user functionality. However, rules that are too loose can put your network at risk, so it’s usually easier to add approved access than it is to recover from a breach that happened because of loose firewall rules. The more rules there are, the longer the firewall takes to review the traffic, so you’ll want to try to keep a lean, but efficient set of rules. 
+- Traffic can be approved or denied based on IP addresses, ports, domain names, and even specific words and phrases. These ensure that only authorized traffic is allowed 
+  while unauthorized or potentially harmful traffic is blocked.
+
+- Before you configure your firewall, it is important to create a plan. In many cases it’s best to deny all traffic except what is allowed. Rules that are too strict can limit important user 
+  functionality.
+
+- However, rules that are too loose can put your network at risk, so it’s usually easier to add approved access than it is to recover from a breach that happened because of loose 
+  firewall rules. The more rules there are, the longer the firewall takes to review the traffic, so you’ll want to try to keep a lean, but efficient set of rules. 
 
 - Inbound Rules :-
 Inbound rules control the incoming network traffic to your computer. These rules help protect your system from unauthorized access and attacks by specifying which types of incoming connections are allowed or blocked.
@@ -112,8 +127,9 @@ Outbound rules control the outgoing network traffic from your computer. These ru
 
 - Enhanced Security: By setting rules, firewalls protect sensitive data and ensure compliance with security
 
+---
 
-# Steps
+# Steps:-
 
 ## Step 1: Locate Microsoft Windows Security Virus and Threat Protection
 
@@ -144,6 +160,7 @@ Outbound rules control the outgoing network traffic from your computer. These ru
 
 ![Screenshot 2024-09-27 203653](https://github.com/user-attachments/assets/5bf93b42-f4be-4508-bb58-fa6693fad147)
 
+---
 
 ## Cerificate:-
 
