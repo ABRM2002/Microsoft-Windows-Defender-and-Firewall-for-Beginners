@@ -76,7 +76,7 @@ The Microsoft-Windows-Defender-and-Firewall-for-Beginners is a guided project by
 ---
 
 
-## B. Understanding Windows Firewall:-
+## B. **Understanding Windows Firewall**:-
 
 
 
