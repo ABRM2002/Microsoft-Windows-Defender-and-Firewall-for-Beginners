@@ -2,7 +2,7 @@
 
 ## Objective:-
 
-The Microsoft-Windows-Defender-and-Firewall-for-Beginners is a guided project by coursera which guided me to build key skills such as being able to recognize common security threats, risks and learning how to set up cybersecurity defenses and updates like how to review and update threat definitions, run the Defender Antivirus quick scan, and configure Firewall Rules with and without Advanced Security. 
+The Microsoft-Windows-Defender-and-Firewall-for-Beginners is a guided project by coursera which guided me to build key skills such as being able to recognize common security threats, risks and learning how to set up cybersecurity defenses and updates like how to **review and update threat definitions, run the Defender Antivirus quick scan, and configure Firewall Rules with and without Advanced Security. **
 
 ## Skills Learned:-
 
