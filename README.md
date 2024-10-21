@@ -120,6 +120,8 @@ Outbound rules control the outgoing network traffic from your computer. These ru
 
 - Public Network: This is a network where the computer is connected in a public place, like a café or airport. This needs a restrictive settings to prevent unauthorized access and ensure maximum security in untrusted environments.
 
+---
+
 ### Functions of Firewalls
 
 - Threat Mitigation: Firewalls help prevent unauthorized access and cyber-attacks by blocking malicious traffic.
@@ -136,27 +138,32 @@ Outbound rules control the outgoing network traffic from your computer. These ru
 
 ![Screenshot 2024-09-27 202942](https://github.com/user-attachments/assets/5cd2d8ae-dbab-4fa8-ab20-52588d8649b9)
 
+---
 
 ## Step 2: Locate Microsoft Windows Security Virus and Threat Protection
 
 ![Screenshot 2024-09-27 203053](https://github.com/user-attachments/assets/cca88ae8-8d49-4cee-92ea-351770e1078e)
 
+---
 
 ## Step 3: Update Threat Definitions
 
 ![Screenshot 2024-09-27 203156](https://github.com/user-attachments/assets/4f9a8a02-92cc-42ea-9765-76e1e03f9261)
 
+---
 
 ## Step 4: Run Microsoft Windows Defender Antivirus Quick Scan 
 
 ![Screenshot 2024-09-27 203320](https://github.com/user-attachments/assets/382b4448-5bb0-4f80-a3b6-d2f848c77609)
 
-
+---
+ 
 ## Step 5: Review Microsoft Windows Defender Antivirus Quick Scan Threat History 
 
 ![Screenshot 2024-09-27 203419](https://github.com/user-attachments/assets/24890b6c-0dd7-443a-9e33-a50300070d8b)
 
-
+---
+ 
 ## Step 6: Configure Firewall Rules using Microsoft Windows Defender Firewall with and without Advanced Security
 
 ![Screenshot 2024-09-27 203653](https://github.com/user-attachments/assets/5bf93b42-f4be-4508-bb58-fa6693fad147)
